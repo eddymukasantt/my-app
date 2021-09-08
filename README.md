@@ -1,4 +1,4 @@
- ## client application that connects to the web service, parses the response, and displays the time.
+ ## Client application that connects to the web service, parses the response, and displays the time.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
